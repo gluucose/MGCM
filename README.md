@@ -6,17 +6,6 @@
   <b> MGCM: Multi-modal Graph Convolutional Mamba for Cancer Survival Prediction</b></a>, Pattern Recognition.
   <br> &nbsp;&nbsp; Jiaqi Cui, Yilun Li, Dinggang Shen, Yan Wang. <br/>
 </summary>
-
-```bash
-@article{cui2025mgcm,
-      title={MGCM: Multi-modal Graph Convolutional Mamba for Cancer Survival Prediction},
-      author={Cui, Jiaqi and Li, Yilun and Shen, Dinggang and Wang, Yan},
-      journal={Pattern Recognition},
-      pages={111991},
-      year={2025},
-      publisher={Elsevier}
-    }
-```
 </details>
 
 ## **📌 Summary**
@@ -267,5 +256,4 @@ Huge thanks to the authors of following open-source projects:
 
 ## **🙋‍♀️ Feedback**
 
-- If you have any questions, you can submit an issue on GitHub, or contact me by email [jiaqicui2001@gmail.com](mailto:jiaqicui2001@gmail.com).
-- Immediate response to minor issues may not be available.
+- If you have any questions, please contact me by [email](mailto:jiaqicui2001@gmail.com).
